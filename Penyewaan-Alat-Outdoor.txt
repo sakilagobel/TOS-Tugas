@@ -1,0 +1,6 @@
+Data Penyewaan Alat Outdoor
+
+- Nama penyewa
+- Nomor hp penyewa
+- Alamat Penyewa
+- Ktp

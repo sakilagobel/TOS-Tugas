@@ -2,6 +2,6 @@ Data Penyewaan Alat Outdoor
 
 - Nama penyewa
 - Nomor hp penyewa
-- Alamat Penyewa
 - Ktp
 - Jumlah alat yang disewa
+- Lama waktu penyewaan
